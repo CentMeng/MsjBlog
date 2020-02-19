@@ -1,0 +1,20 @@
+.idea
+target
+
+/src/main/gui/backend/node_modules/
+/src/main/gui/backend/package-lock.json
+/src/main/gui/backend/dist
+
+/src/main/gui/front/node_modules/
+/src/main/gui/front/package-lock.json
+/src/main/gui/front/dist
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+src/main/resources/config/application-dev.yml
+src/main/resources/config/application-prod.yml
+src/main/resources/config/application.yml
